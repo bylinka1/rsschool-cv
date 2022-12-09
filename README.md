@@ -1,2 +1,3 @@
 # rsschool-cv
-https://github.com/bylinka1/rsschool-cv/blob/gh-pages/cv.md
+
+https://bylinka1.github.io/rsschool-cv/
