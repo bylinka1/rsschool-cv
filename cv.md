@@ -17,7 +17,6 @@ My most recent experience was working as an English teacher.
 * Adobe Photoshop
 * HTML&CSS
 * Javascript fundamentals
-* Git
 
 ***
 ### **Education**
